@@ -7,3 +7,5 @@ Blue
 Yellow
 Red
 The colours of the rainbow.
+
+i like rainbows

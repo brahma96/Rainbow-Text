@@ -1,11 +1,19 @@
-The Rainbow
+<<<<<< ponies
+The Rainbow and The Unicorn and Ponies
+=======
+The Rainbow and The Unicorn (nope no Ponies here)
+>>>>>> main
+(just removed one '>' from ponies/main each lol)
 
+Earth is great!
 Indigo
 Purple
 Pink
 Blue
 Yellow
+Unicorn
 Red
 The colours of the rainbow.
+And the unicorn.
 
 i like rainbows
